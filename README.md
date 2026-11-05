@@ -100,4 +100,4 @@ These are not guaranteed to exist or remain unchanged. If the game updates, depe
 
 ## Disclaimer
 
-This project is provided as-is, without any guarantee of compatibility or continued operation. No license is specified in the source code; add a license file if you intend to publish or distribute the project.
+License : Minwel0.
