@@ -1,9 +1,4 @@
 # Minwel Menu — README
-
-A customizable Roblox client-side UI panel for **South London 2**, featuring a dark interface, subtle emerald-green accents, and several gameplay-related panels.
-
-> **Important:** Use this script only in experiences you own or in environments where you have explicit permission to test. Some features depend on the game's internal objects and may stop working if the experience is updated.
-
 ## Features
 
 ### Interface
