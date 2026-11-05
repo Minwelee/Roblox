@@ -50,7 +50,7 @@ Available display options:
 
 1. Open your Roblox.
 2. Open your executor
-3. Paste loadstring(game:HttpGet("https://novoline.pro"))().
+3. Paste loadstring(game:HttpGet("(https://github.com/Minwelee/Roblox/blob/main/modmenu.lua)"))().
 4. and run.
 
 The script is designed for a client-side context. Features that rely on game-specific objects or modules require those objects to exist with the expected structure.
